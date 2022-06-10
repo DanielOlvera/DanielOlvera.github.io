@@ -4,6 +4,7 @@
       "name": "Dale Gibson",
       "username": "Bret",
       "email": "Sincere@april.biz",
+      "reservation":"true",
       "address": {
         "street": "Kulas Light",
         "suite": "Apt. 556",
@@ -21,6 +22,7 @@
       "name": "Jeremy Gibson",
       "username": "Antonette",
       "email": "Shanna@melissa.tv",
+      "reservation":"false",
       "address": {
         "street": "Victor Plains",
         "suite": "Suite 879",
@@ -38,6 +40,7 @@
       "name": "Clementine Bauch",
       "username": "Samantha",
       "email": "Nathan@yesenia.net",
+      "reservation":"false",
       "address": {
         "street": "Douglas Extension",
         "suite": "Suite 847",
@@ -55,6 +58,7 @@
       "name": "Linda Gibson",
       "username": "Karianne",
       "email": "Julianne.OConner@kory.org",
+      "reservation":"true",
       "address": {
         "street": "Hoeger Mall",
         "suite": "Apt. 692",
